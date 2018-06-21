@@ -1,0 +1,13 @@
+
+[
+    {
+        "modid": "instavip",
+        "name": "VIP-ITMC",
+        "version": "0.1",
+        "description": "Plugin de VIPS e Pacotes",
+        "authorList": [
+            "Feldmann",
+            "NeT32"
+        ]
+    }
+]
